@@ -2,6 +2,8 @@
 
 The Monad language is currently a hobby project to implement a dependently typed programming language with compatibility with Rust.
 
+![The Monad Logo](images/monad-lang-background.png)
+
 ## Hello world example
 
 Here is a simple example
